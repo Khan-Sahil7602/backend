@@ -1,0 +1,226 @@
+[
+  {
+    "id": 1,
+    "productImg": "img/products/f1.jpg",
+    "productBrand": "H&M",
+    "productName": "Men's Cotton T-Shirt",
+    "productRating": 4.5,
+    "productPrice": 1999,
+    "type": "clothing",
+    "sizeChartLink": "img/clothing-size-chart.png"
+  },
+  {
+    "id": 2,
+    "productImg": "img/products/f2.jpg",
+    "productBrand": "Levi's",
+    "productName": "Original Fit Shirt",
+    "productRating": 4,
+    "productPrice": 6950,
+    "type": "clothing",
+    "sizeChartLink": "img/clothing-size-chart.png"
+  },
+  {
+    "id": 3,
+    "productImg": "img/products/f3.jpg",
+    "productBrand": "Zara",
+    "productName": "Faux Leather Biker Jacket",
+    "productRating": 5,
+    "productPrice": 8990,
+    "type": "clothing",
+    "sizeChartLink": "img/clothing-size-chart.png"
+  },
+  {
+    "id": 17,
+    "productImg": "img/products/p1.jpg",
+    "productBrand": "La-Opala",
+    "productName": "Dinner Plate",
+    "productRating": 4,
+    "productPrice": 7990
+  },
+  {
+    "id": 4,
+    "productImg": "img/products/f4.jpg",
+    "productBrand": "Forever 21",
+    "productName": "Floral Summer Dress",
+    "productRating": 4,
+    "productPrice": 3499,
+    "type": "clothing",
+    "sizeChartLink": "img/clothing-size-chart.png"
+  },
+  {
+    "id": 18,
+    "productImg": "img/products/p2.jpg",
+    "productBrand": "HP",
+    "productName": "Backpack",
+    "productRating": 4,
+    "productPrice": 2990
+  },
+  {
+    "id": 5,
+    "productImg": "img/products/f5.jpg",
+    "productBrand": "Nike",
+    "productName": "Sportswear Club Fleece Hoodie",
+    "productRating": 3.5,
+    "productPrice": 5500,
+    "type": "clothing",
+    "sizeChartLink": "img/clothing-size-chart.png"
+  },
+  {
+    "id": 6,
+    "productImg": "img/products/f6.jpg",
+    "productBrand": "Adidas",
+    "productName": "Essentials 3-Stripes Shorts",
+    "productRating": 4.5,
+    "productPrice": 3000,
+    "type": "clothing",
+    "sizeChartLink": "img/clothing-size-chart.png"
+  },
+  {
+    "id": 7,
+    "productImg": "img/products/f7.jpg",
+    "productBrand": "Uniqlo",
+    "productName": "Men's Oxford Shirt",
+    "productRating": 4,
+    "productPrice": 2990,
+    "type": "clothing",
+    "sizeChartLink": "img/clothing-size-chart.png"
+  },
+  {
+    "id": 8,
+    "productImg": "img/products/f8.jpg",
+    "productBrand": "Mango",
+    "productName": "Pleated Midi Skirt",
+    "productRating": 4.5,
+    "productPrice": 4599,
+    "type": "clothing",
+    "sizeChartLink": "img/clothing-size-chart.png"
+  },
+  {
+    "id": 19,
+    "productImg": "img/products/p3.jpg",
+    "productBrand": "Philips",
+    "productName": "Coffee Maker",
+    "productRating": 4.5,
+    "productPrice": 9900
+  },
+  {
+    "id": 9,
+    "productImg": "img/products/n1.jpg",
+    "productBrand": "Puma",
+    "productName": "Graphic Print Tee",
+    "productRating": 4,
+    "productPrice": 2500,
+    "type": "clothing",
+    "sizeChartLink": "img/clothing-size-chart.png"
+  },
+  {
+    "id": 10,
+    "productImg": "img/products/n2.jpg",
+    "productBrand": "Columbia",
+    "productName": "Men's Lightweight Windbreaker",
+    "productRating": 3,
+    "productPrice": 6000,
+    "type": "clothing",
+    "sizeChartLink": "img/clothing-size-chart.png"
+  },
+  {
+    "id": 11,
+    "productImg": "img/products/n3.jpg",
+    "productBrand": "ASOS",
+    "productName": "Ruched Bodycon Mini Dress",
+    "productRating": 4,
+    "productPrice": 3800,
+    "type": "clothing",
+    "sizeChartLink": "img/clothing-size-chart.png"
+  },
+  {
+    "id": 20,
+    "productImg": "img/products/p4.jpg",
+    "productBrand": "Ray Ban",
+    "productName": "Sunglasses",
+    "productRating": 5,
+    "productPrice": 6950
+  },
+  {
+    "id": 12,
+    "productImg": "img/products/n4.jpg",
+    "productBrand": "Wrangler",
+    "productName": "Slim Fit Stretch Jeans",
+    "productRating": 4.5,
+    "productPrice": 4999,
+    "type": "clothing",
+    "sizeChartLink": "img/clothing-size-chart.png"
+  },
+  {
+    "id": 21,
+    "productImg": "img/products/p5.jpg",
+    "productBrand": "KC Paul",
+    "productName": "Umbrella",
+    "productRating": 4,
+    "productPrice": 4985
+  },
+  {
+    "id": 13,
+    "productImg": "img/products/n5.jpg",
+    "productBrand": "Tommy Hilfiger",
+    "productName": "Classic Fit Gingham Shirt",
+    "productRating": 5,
+    "productPrice": 6500,
+    "type": "clothing",
+    "sizeChartLink": "img/clothing-size-chart.png"
+  },
+  {
+    "id": 14,
+    "productImg": "img/products/n6.jpg",
+    "productBrand": "Zara",
+    "productName": "High-Waisted Denim Skirt",
+    "productRating": 4,
+    "productPrice": 3990,
+    "type": "clothing",
+    "sizeChartLink": "img/clothing-size-chart.png"
+  },
+  {
+    "id": 22,
+    "productImg": "img/products/p6.jpg",
+    "productBrand": "Carlton London",
+    "productName": "Sandals",
+    "productRating": 4.5,
+    "productPrice": 8923
+  },
+  {
+    "id": 15,
+    "productImg": "img/products/n7.jpg",
+    "productBrand": "Reebok",
+    "productName": "Training Essentials Hoodie",
+    "productRating": 4.5,
+    "productPrice": 4500,
+    "type": "clothing",
+    "sizeChartLink": "img/clothing-size-chart.png"
+  },
+  {
+    "id": 23,
+    "productImg": "img/products/p7.jpg",
+    "productBrand": "Cello",
+    "productName": "Food Containers",
+    "productRating": 4.5,
+    "productPrice": 4650
+  },
+  {
+    "id": 16,
+    "productImg": "img/products/n8.jpg",
+    "productBrand": "Gap",
+    "productName": "Cotton-Linen Blend Shorts",
+    "productRating": 4,
+    "productPrice": 3299,
+    "type": "clothing",
+    "sizeChartLink": "img/clothing-size-chart.png"
+  },
+  {
+    "id": 24,
+    "productImg": "img/products/p8.jpg",
+    "productBrand": "Wakefit",
+    "productName": "Curtain",
+    "productRating": 4,
+    "productPrice": 2990
+  }
+]
